@@ -110,7 +110,7 @@
                         </select>
                     </div>
                 </div>
-                <button type="submit" class="btn btn-primary">Login</button>
+                <button type="submit" class="btn btn-primary">Please Log in</button>
             </form>
             <a id="selfRegistrationLink" href="register.php">Create account</a>
             <small class="fixed-bottom">Version Beta 0.7.10</small>
